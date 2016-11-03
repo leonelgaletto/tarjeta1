@@ -8,3 +8,6 @@ before_script:
 
 script:
   - phpunit
+  
+service_name: travis-pro
+repo_token: Vz7C3FS5UfW5F49Gdv4A9Vt2v5a9WuHCk
